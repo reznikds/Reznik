@@ -1,0 +1,1 @@
+<div id="slider" style="width: 300px;"><a href="/account.html">Личный кабинет</a> <a href="/admin.html"><b>Админка</b></a> <a href="/auth/logout.html">Выйти</a></div>
